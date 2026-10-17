@@ -1,0 +1,9 @@
+# Flutter platform scaffolding and build output, not hand-written code.
+# Keeps it out of GitHub's language stats so Dart shows up properly.
+**/android/** linguist-vendored=true
+**/ios/** linguist-vendored=true
+**/linux/** linguist-vendored=true
+**/macos/** linguist-vendored=true
+**/windows/** linguist-vendored=true
+**/web/** linguist-vendored=true
+**/build/** linguist-generated=true
